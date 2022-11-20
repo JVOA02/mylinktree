@@ -6,7 +6,7 @@ justify-content: center;
 align-items: center;
 }
 .box-main{
-width:420px;
+width:425px;
 height: 700px;
 background-color: aquamarine;
 display: flex;
@@ -49,13 +49,16 @@ margin-right: 15px;
 margin-left: 120px;
 }
 #GITHUB{
-margin-top: 12px;
+
+margin-top: 5px;
 }
 #INSTAGRAM{
-margin-top: 18px;
+margin-top: 10px;
 margin-left: -10px;
 }
 #LINKEDIN{ 
+    margin-top: 15px;
 }
 #GMAIL{
+    margin-top: 15px;
 }
