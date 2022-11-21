@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #000;
 }
 .Layout{
   
@@ -16,13 +17,14 @@ body{
 .box-background{
     position: absolute;
     background-color: green;
+    height: 100vh;
 }
 .img-item{
     width: 500px;
     /*
     height: 480px;
     */
-    height: 100vh;
+    height: 120vh;
 }
 .box-bottom{
     z-index: 1;
@@ -36,7 +38,8 @@ body{
 }
 .bottom-item{
     width: 100%;
-    margin-top: 200px;
+    margin-top: 300px;
+    padding-left: 30px;
     z-index: 1;
     height: 60%;
     /*
